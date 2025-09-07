@@ -1,8 +1,8 @@
-ALX Listing App
+# ALX Listing App
 The ALX Listing App is an Airbnb-inspired project designed to practice building scalable, component-driven web applications with Next.js.
 This milestone sets up the project foundation with TypeScript, ESLint, TailwindCSS, and a well-structured folder layout to ensure maintainability as we add more features (such as listing pages and reusable components).
 
-Project Goals:
+## Project Goals:
 
 - Build an Airbnb clone listing page using Next.js
 - Establish a clean and maintainable code structure.
@@ -39,7 +39,8 @@ alx-listing-app/
 ├── tsconfig.json        # TypeScript configuration
 ├── package.json         # Project dependencies and scripts
 └── README.md            # Project documentation
-
+````
+## How to run locally:
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
 
 git clone https://github.com/<your-username>/alx-listing-app.git
@@ -55,7 +56,7 @@ yarn dev
 pnpm dev
 # or
 bun dev
-````
+
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
