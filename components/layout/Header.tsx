@@ -5,7 +5,7 @@ const Header: React.FC = () => {
     <header className="sticky top-0 z-50 border-b bg-white/70 backdrop-blur">
       <div className="mx-auto flex max-w-7xl items-center justify-between p-4">
         <Link href="/" className="font-semibold text-xl tracking-tight">
-          alx<span className="text-indigo-600">Listing</span>
+          <img src="/assets/imgs/detail/logo.png" alt=""></img>
         </Link>
 
         <div className="hidden md:flex w-full max-w-xl mx-6">

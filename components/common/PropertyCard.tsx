@@ -22,7 +22,7 @@ const PropertyCard: React.FC<Props> = ({ item }) => {
           <img
             src="/assets/imgs/detail/discount-indicator.png"
             alt={`${discountInt}% off`}
-            className="absolute right-55 top-2 h-10 w-20 select-none pointer-events-none"
+            className="absolute left-0 top-2 h-10 w-20 select-none pointer-events-none"
             draggable={false}
           />
         )}
